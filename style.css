@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 .container{
+    background-image: url(numbers.jpg);
     background-color: rgb(196, 226, 255);
     width: 100%;
     height: 100vh;
